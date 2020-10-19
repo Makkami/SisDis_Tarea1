@@ -4,7 +4,7 @@ Grupo:
   
 Integrantes:
   Jorge Juan 201666512-9
-  Maximiliano Ojeda MAXTUROL
+  Maximiliano Ojeda 201773576-7
   
   Disclaimer: 
   
